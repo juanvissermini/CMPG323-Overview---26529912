@@ -1,6 +1,6 @@
 # CMPG323 Overview 26529912
 Project repositories:
-  1. Agile & Scrum - 
+  1. Agile & Scrum - https://github.com/juanvissermini/CMPG323-Overview-26529912.git
   2. API Development - 
   3. Standards & Patterns - 
   4. Testing & RPA - https://github.com/juanvissermini/CMPG-323-Project-4---26529912.git
